@@ -1,0 +1,4 @@
+dataset/
+tmp/
+#byte compile files
+*.py[cod]
