@@ -76,7 +76,7 @@ The current implementation is prone to disturbances like noise from surrounding 
 * By adding touchscreen facility it improves user experience.
 
 ## Video
-[![DEMO VIDEO](https://kukr.github.io/Smart-mirror/images/poster.jpg)](https://kukr.github.io/Smart-mirror/Demo_video/Smart-Mirror_ARIES_IIT_Roorkee.mp4)
+[![DEMO VIDEO](https://github.com/kukr/Smart-Mirror/blob/master/assets/poster.jpg)](https://github.com/kukr/Smart-Mirror/blob/master/assets/Smart-Mirror_ARIES_IIT_Roorkee.mp4)
 
 ## Thanks
 Feel free to post issues if you find any problem or contact me [Kakarla Uday Kanth Reddy](https://www.facebook.com/udaykanth.reddy.10)<br>
